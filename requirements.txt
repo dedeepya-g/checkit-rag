@@ -1,0 +1,8 @@
+pinecone
+groq
+streamlit
+python-dotenv
+requests
+beautifulsoup4
+tqdm
+rank_bm25
